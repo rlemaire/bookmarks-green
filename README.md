@@ -31,6 +31,7 @@ Liens sur des sujets écolos.
  - [The Shift Data Portal](https://www.theshiftdataportal.org/)
  - [Electricité et CO2 : le tableau européen – {Sciences²}](https://www.lemonde.fr/blog/huet/2019/05/06/electricite-et-co2-le-tableau-europeen/)
  - [ACV électricité - image](https://pbs.twimg.com/media/EdeJHtyXsAApZ_p?format=jpg&name=4096x4096) - [tweet](https://twitter.com/Max__lib/status/1285647267953807374)
+ 
 ## Solutions
  - [Equation de Kaya (wikipédia)](https://fr.wikipedia.org/wiki/%C3%89quation_de_Kaya), [Equation de Kaya (JMJ)](https://jancovici.com/changement-climatique/economie/quest-ce-que-lequation-de-kaya/)
  - [Avion, climat et fiscalité : un petit manuel d&#39;auto-défense intellectuelle - The Shift Project](https://theshiftproject.org/article/aerien-climat-fiscalite-manuel-auto-defense-intellectuelle/)
@@ -39,6 +40,7 @@ Liens sur des sujets écolos.
 ## Misc
  - [Le déni - Standblog](https://standblog.org/blog/post/2019/06/30/Le-deni)
  - [Mine de Hambach](https://fr.wikipedia.org/wiki/Mine_de_Hambachr)
+ - [Potentiel de réchauffement global](https://fr.wikipedia.org/wiki/Potentiel_de_r%C3%A9chauffement_global) avec les schémas des molécules.
  
 # Renouvellables
  - [Vraiment vertes, les énergies renouvelables ? | Mouvement Colibris](https://www.colibris-lemouvement.org/magazine/vraiment-vertes-energies-renouvelables)
