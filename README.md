@@ -41,7 +41,12 @@ Liens sur des sujets écolos.
  - [Le déni - Standblog](https://standblog.org/blog/post/2019/06/30/Le-deni)
  - [Mine de Hambach](https://fr.wikipedia.org/wiki/Mine_de_Hambachr)
  - [Potentiel de réchauffement global](https://fr.wikipedia.org/wiki/Potentiel_de_r%C3%A9chauffement_global) avec les schémas des molécules.
- 
+ - [Les 12 excuses de l'inaction](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/)
+
+# Artificialisation des sols
+
+- [Indicateur du gouvernement](https://www.gouvernement.fr/indicateur-artificialisation-sols)
+
 # Renouvellables
  - [Vraiment vertes, les énergies renouvelables ? | Mouvement Colibris](https://www.colibris-lemouvement.org/magazine/vraiment-vertes-energies-renouvelables)
 
