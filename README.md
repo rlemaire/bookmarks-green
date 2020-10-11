@@ -24,6 +24,7 @@ Liens sur des sujets écolos.
 ## Conséquences
  - [Montée des eaux, crues, feux de forêt : l&#39;impact du réchauffement climatique en France en six cartes](https://www.franceinter.fr/environnement/montee-des-eaux-crues-feux-de-foret-l-impact-du-rechauffement-climatique-en-france-en-six-cartes#xtor=EPR-5-)
  - [infographie diffrence 1.5 et 2°](https://img.lemde.fr/2018/10/08/0/0/1068/3461/688/0/60/0/54015ef_OV604aPS8tam_kucE2rBcQDB.png)
+ - [Ademe s’adapter aux changement climatiques](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-adapter-changement-climatique.pdf?fbclid=IwAR2647Ujh7OwxGJMUd8fSAcUNK5OhoQNPM7tkVMPmfy8HtaAbVXiFaiSo5w)
 
 ## Sources d'émissions / Bases de données
  - [Bilan carbone français ADEME](https://ecolab.ademe.fr/apps/climat/simulateur/bilan)
@@ -58,6 +59,10 @@ Liens sur des sujets écolos.
  - [The Complete Case For Nuclear — Environmental Progress](http://environmentalprogress.org/the-complete-case-for-nuclear)
  - [Nathaniel Read sur Twitter : &quot;Nuclear waste lasts so long....imagine how tricky it would be if we had hazardous industrial wastes that *didn&#39;t* eventually become harmless due to radioactive decay! You know. Like... MERCURY. Thread time. (1/14)&quot; / Twitter](https://twitter.com/ReadNathaniel/status/1261232798385483776)
  - [laydgeur sur Twitter : &quot;Bon je m&#39;amuse avec Google Earth et les déchets nucléaires. Voici sur le vieux port de Marseille, la TOTALITÉ des déchets de haute activité qui excitent tant les anti-nucléaires, produits en 60 ans. A ressortir au prochain qui dit que c&#39;est impossible à gérer et à confiner. https://t.co/wUjsBEsfHZ&quot; / Twitter](https://twitter.com/laydgeur/status/1184810853494861824)
+
+# Biodiversité
+
+ - [Rapport du WWF](https://www.wwf.fr/sites/default/files/doc-2020-09/20200910_Synthese_Rapport-Planete-Vivante-2020_WWF-min.pdf)
 
  # Bio
   - [Notre comparateur pour mieux s’y retrouver dans les différents labels bio](http://www.lemonde.fr/les-decodeurs/visuel/2017/01/18/comparateur-mieux-comprendre-les-labels-bios_5064859_4355770.html)
