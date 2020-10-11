@@ -72,6 +72,7 @@ Liens sur des sujets écolos.
 
  # Croissance
  - [La « croissance verte » est un mythe](https://www.vice.com/fr/article/qj4z9p/la-croissance-verte-est-un-mythe?fbclid=IwAR2cfafrvCfBNaZQgJfWBfGzQ4d2zLsVXty9uYhmqs-iymI36MUTk70Ilok)
+ - [Decoupling debunked](https://mk0eeborgicuypctuf7e.kinstacdn.com/wp-content/uploads/2019/07/Decoupling-Debunked.pdf)
 
 # Misc
  - [Every Day 10,000 People Die Due To Air Pollution From Fossil Fuels](https://www.forbes.com/sites/rogerpielke/2020/03/10/every-day-10000-people-die-due-to-air-pollution-from-fossil-fuels/#70a07f142b6a)
