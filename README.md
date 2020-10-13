@@ -12,6 +12,7 @@ Liens sur des sujets écolos.
  - [Effet de serre sur wikipédia](https://fr.wikipedia.org/wiki/Effet_de_serre)
  - [Réchauffement climatique sur wikipédia](https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique)
 
+
 ## Courbes de température
 - [Température que les derniers 2000 ans](https://commons.wikimedia.org/wiki/File:2000_Year_Temperature_Comparison_fr.png?uselang=fr) avec optimum médiéval et petit âge glaciaire.
 - [Les derniers 12000 ans (El Pais)](https://verne.elpais.com/verne/2020/08/18/articulo/1597746471_800102.html)
@@ -45,6 +46,7 @@ Liens sur des sujets écolos.
  - [Les 12 excuses de l'inaction](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/)
  - [Référentiel pour une neutralité carbone collective de Carbone 4](https://drive.google.com/file/d/1UAPVYRDU34nY7MyAyRTxYkJKoYzMvS3B/view)
  - [La démographie sujet tabou de l'écologie?](https://bonpote.com/la-demographie-sujet-tabou-de-lecologie/)
+ - [Point de sismique](https://www.sismique.fr/post/changement-climatique-on-refait-le-point) avec le [graph de besoin de baisse émissions](https://static.wixstatic.com/media/ba7b0b_f14631a601204d48b1449df4268fc842~mv2.jpg/v1/fill/w_1399,h_750,al_c,q_90/ba7b0b_f14631a601204d48b1449df4268fc842~mv2.webp) et [une courbe qui montre les baisses d'émissions lors des récessions](https://static.wixstatic.com/media/ba7b0b_defc7f87bbc241cb8ee55a94d9116626~mv2.png/v1/fill/w_1480,h_1015,al_c,q_90,usm_0.66_1.00_0.01/ba7b0b_defc7f87bbc241cb8ee55a94d9116626~mv2.webp)
 
 # Artificialisation des sols
 
