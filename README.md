@@ -43,6 +43,8 @@ Liens sur des sujets écolos.
  - [Mine de Hambach](https://fr.wikipedia.org/wiki/Mine_de_Hambachr)
  - [Potentiel de réchauffement global](https://fr.wikipedia.org/wiki/Potentiel_de_r%C3%A9chauffement_global) avec les schémas des molécules.
  - [Les 12 excuses de l'inaction](https://bonpote.com/climat-les-12-excuses-de-linaction-et-comment-y-repondre/)
+ - [Référentiel pour une neutralité carbone collective de Carbone 4](https://drive.google.com/file/d/1UAPVYRDU34nY7MyAyRTxYkJKoYzMvS3B/view)
+ - [La démographie sujet tabou de l'écologie?](https://bonpote.com/la-demographie-sujet-tabou-de-lecologie/)
 
 # Artificialisation des sols
 
