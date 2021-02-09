@@ -26,6 +26,7 @@ Liens sur des sujets écolos.
  - [Montée des eaux, crues, feux de forêt : l&#39;impact du réchauffement climatique en France en six cartes](https://www.franceinter.fr/environnement/montee-des-eaux-crues-feux-de-foret-l-impact-du-rechauffement-climatique-en-france-en-six-cartes#xtor=EPR-5-)
  - [infographie diffrence 1.5 et 2°](https://img.lemde.fr/2018/10/08/0/0/1068/3461/688/0/60/0/54015ef_OV604aPS8tam_kucE2rBcQDB.png)
  - [Ademe s’adapter aux changement climatiques](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-adapter-changement-climatique.pdf?fbclid=IwAR2647Ujh7OwxGJMUd8fSAcUNK5OhoQNPM7tkVMPmfy8HtaAbVXiFaiSo5w)
+ - [En Gironde, les expropriés de l’immeuble Signal, symbole de l’érosion côtière, seront indemnisés](https://www.lemonde.fr/m-le-mag/article/2021/01/28/en-gironde-les-expropries-de-l-immeuble-signal-symbole-de-l-erosion-cotiere-seront-indemnises_6067937_4500055.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1611835803)
 
 ## Sources d'émissions / Bases de données
  - [Bilan carbone français ADEME](https://ecolab.ademe.fr/apps/climat/simulateur/bilan)
@@ -47,6 +48,7 @@ Liens sur des sujets écolos.
  - [Référentiel pour une neutralité carbone collective de Carbone 4](https://drive.google.com/file/d/1UAPVYRDU34nY7MyAyRTxYkJKoYzMvS3B/view)
  - [La démographie sujet tabou de l'écologie?](https://bonpote.com/la-demographie-sujet-tabou-de-lecologie/)
  - [Point de sismique](https://www.sismique.fr/post/changement-climatique-on-refait-le-point) avec le [graph de besoin de baisse émissions](https://static.wixstatic.com/media/ba7b0b_f14631a601204d48b1449df4268fc842~mv2.jpg/v1/fill/w_1399,h_750,al_c,q_90/ba7b0b_f14631a601204d48b1449df4268fc842~mv2.webp) et [une courbe qui montre les baisses d'émissions lors des récessions](https://static.wixstatic.com/media/ba7b0b_defc7f87bbc241cb8ee55a94d9116626~mv2.png/v1/fill/w_1480,h_1015,al_c,q_90,usm_0.66_1.00_0.01/ba7b0b_defc7f87bbc241cb8ee55a94d9116626~mv2.webp)
+ - [Six dataviz pour mieux saisir l’urgence climatique](https://nourrituresterrestres.substack.com/p/6-dataviz-pour-mieux-saisir-lurgence)
 
 # Artificialisation des sols
 
