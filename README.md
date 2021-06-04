@@ -86,3 +86,4 @@ Liens sur des sujets écolos.
  - [Le mythe de la technologie salvatrice | Revue Esprit](https://esprit.presse.fr/article/bihouix-philippe/le-mythe-de-la-technologie-salvatrice-39262?fbclid=IwAR3ynlvVGv4JFCUhR6ACWSmQhxpycw0VTzDC7gtZ_utMcU81Pe8aVWrky2E)
  - [What can a technologist do about climate change? A personal view.](http://worrydream.com/ClimateChange/)
  - [Low-tech Lab](https://lowtechlab.org/)
+ - [La voiture coute cher - 4732€ par an](https://www.liberation.fr/economie/transports/la-voiture-coute-cher-aux-francais-20210526_26IJ75OXBVEJFE5HPIBUTPYLEA/?utm_medium=Social&xtor=CS7-51-&utm_source=Twitter#Echobox=1622033641)
