@@ -50,6 +50,8 @@ Liens sur des sujets écolos.
  - [Point de sismique](https://www.sismique.fr/post/changement-climatique-on-refait-le-point) avec le [graph de besoin de baisse émissions](https://static.wixstatic.com/media/ba7b0b_f14631a601204d48b1449df4268fc842~mv2.jpg/v1/fill/w_1399,h_750,al_c,q_90/ba7b0b_f14631a601204d48b1449df4268fc842~mv2.webp) et [une courbe qui montre les baisses d'émissions lors des récessions](https://static.wixstatic.com/media/ba7b0b_defc7f87bbc241cb8ee55a94d9116626~mv2.png/v1/fill/w_1480,h_1015,al_c,q_90,usm_0.66_1.00_0.01/ba7b0b_defc7f87bbc241cb8ee55a94d9116626~mv2.webp)
  - [Six dataviz pour mieux saisir l’urgence climatique](https://nourrituresterrestres.substack.com/p/6-dataviz-pour-mieux-saisir-lurgence)
  - [L’Agence internationale de l’énergie appelle à ne plus investir dans de nouvelles installations pétrolières ou gazières](https://www.lemonde.fr/energies/article/2021/05/18/l-agence-internationale-de-l-energie-appelle-a-ne-plus-investir-dans-de-nouvelles-installations-petrolieres-ou-gazieres_6080549_1653054.html)
+ - [Matthieu Auzanneau
+Métaux critiques, charbon, gaz, pétrole : nous entrons dans les récifs](https://www.lemonde.fr/blog/petrole/2021/10/12/metaux-critiques-charbon-gaz-petrole-nous-entrons-dans-les-recifs/?utm_source=pocket_mylist#2)
 
 # Artificialisation des sols
 
