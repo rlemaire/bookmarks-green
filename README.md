@@ -2,6 +2,8 @@ Liens sur des sujets écolos.
 
 # Effet de serre (forçage radiatif) et déreglement climatique
 
+- [Infographie résumée du Monde](https://www.lemonde.fr/les-decodeurs/visuel/2023/06/07/comprendre-le-rechauffement-comment-nous-avons-bouleverse-le-climat_6176490_4355770.html)
+
 ## Mécanisme
  - [Température](https://fr.wikipedia.org/wiki/Temp%C3%A9rature)
  - [Ondes életromagnétiques](https://fr.wikipedia.org/wiki/Onde_%C3%A9lectromagn%C3%A9tique) et [Spectre visible](https://fr.wikipedia.org/wiki/Spectre_%C3%A9lectromagn%C3%A9tique), [page du CEA](http://www.cea.fr/comprendre/pages/physique-chimie/essentiel-sur-ondes-electromagnetiques-communication.aspx), [research gate](https://www.researchgate.net/figure/Les-differents-domaines-du-spectre-electromagnetique_fig1_30514255), et [cette image](https://www.asef-asso.fr/wp-content/uploads/2017/05/IMAGES-2.jpg)
