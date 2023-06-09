@@ -91,3 +91,4 @@ Métaux critiques, charbon, gaz, pétrole : nous entrons dans les récifs](https
  - [What can a technologist do about climate change? A personal view.](http://worrydream.com/ClimateChange/)
  - [Low-tech Lab](https://lowtechlab.org/)
  - [La voiture coute cher - 4732€ par an](https://www.liberation.fr/economie/transports/la-voiture-coute-cher-aux-francais-20210526_26IJ75OXBVEJFE5HPIBUTPYLEA/?utm_medium=Social&xtor=CS7-51-&utm_source=Twitter#Echobox=1622033641)
+ - [Gros topo de Carbone 4 sur la voiture électrique](https://www.carbone4.com/analyse-faq-voiture-electrique)
